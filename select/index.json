@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "夢遊病",
+  "base_artist": "内緒のピアス",
+  "createdAt": "2026-02-12T07:34:21.479414Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夢遊病",
+      "artist": "GLAY",
+      "has_synced": true,
+      "path": "select/01_夢遊病_GLAY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夢遊病",
+      "artist": "内緒のピアス",
+      "has_synced": false,
+      "path": "select/pl_01_夢遊病_内緒のピアス.txt"
+    }
+  ]
+}
